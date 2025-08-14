@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Expo AI One",
+    "slug": "expo-ai-one",
+    "scheme": "expoai",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#ffffff" },
+    "ios": { "bundleIdentifier": "com.yourcompany.expoaione", "supportsTablet": true },
+    "android": { "package": "com.yourcompany.expoaione", "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#ffffff" } },
+    "web": { "bundler": "metro" }
+  }
+}
